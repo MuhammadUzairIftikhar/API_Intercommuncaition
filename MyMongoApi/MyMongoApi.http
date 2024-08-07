@@ -1,0 +1,6 @@
+@MyMongoApi_HostAddress = http://localhost:5123
+
+GET {{MyMongoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "AnotherApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5001", // Ensure this is the correct port for AnotherApi
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+  
